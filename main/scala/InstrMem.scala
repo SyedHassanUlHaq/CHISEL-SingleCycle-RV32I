@@ -10,6 +10,6 @@ class instrMem extends Module{
         val addr = Input(UInt(32.W))
     })
     val mem = Mem(1024, UInt(32.W))
-    loadMemoryFromFile(mem, "/home/hassan/Documents/Assemble")
+    loadMemoryFromFile(mem, "/home/owais/Pictures/Hassan-CHISEL-SingleCycle-RV32I-main/src/main/scala/SingleCycle/Assemble.txt")  // change your path accordingly your file path
     io.instr := mem.read(io.addr)
 }
