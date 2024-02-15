@@ -1,10 +1,10 @@
+<img src='https://github.com/samadpls/ALEPH/blob/main/Single%20Cycle%20RISC-V%20Core.png' height=600 width=100%>
 
-<img src='https://github.com/samadpls/ALEPH/blob/main/Single%20Cycle%20RISC-V%20Core.png' height=600 width=100%
 <br>
 First of all get started by cloning this repository on your machine.
 
 ```ruby
-git clone https://github.com/syedowaisalishah/Al-Battar-.git
+git clone https://github.com/SyedHassanUlHaq/CHISEL-SingleCycle-RV32I-.git
 ```
 
 Create a .txt file and place the ***hexadecimal*** code of your instructions simulated on ***Venus*** (RISC-V Simulator)\
