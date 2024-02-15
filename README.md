@@ -1,5 +1,5 @@
-البتا
-<img src='https://github.com/samadpls/ALEPH/blob/main/Single%20Cycle%20RISC-V%20Core.png' height=600 width=100%>
+
+<img src='https://github.com/samadpls/ALEPH/blob/main/Single%20Cycle%20RISC-V%20Core.png' height=600 width=100%
 <br>
 First of all get started by cloning this repository on your machine.
 
